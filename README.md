@@ -52,6 +52,21 @@ A Windows Forms desktop application built using **C#** and **SQL Server** to man
 
 ---
 
+## 🖼️ Screenshots
+
+### 📘 Main Form
+![Main Form](Images/app.PNG)
+
+### ➕ New Book Entry
+![New Book Form](Images/nsert.PNG)
+![New Book Form](Images/loaded.PNG)
+
+
+### 📄 Report Viewer
+![Report Viewer](Images/final.PNG)
+
+---
+
 ## ⚙️ Setup Instructions
 
 1. **Clone or Download** this repository
