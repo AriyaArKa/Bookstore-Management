@@ -125,7 +125,6 @@ This project is intended for academic and demonstration purposes.
 
 ## 🙌 Acknowledgments
 
-- Developed as part of **[Course Name]**
-- Student: **[Your Name]**
-- Instructor: **[Instructor Name, if applicable]**
+- Developed as part of Outsourcing
+- Student: Arka Nath
 
